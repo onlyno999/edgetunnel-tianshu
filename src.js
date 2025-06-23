@@ -11,7 +11,7 @@ let 优选列表 = [];
 let SOCKS5代理 = false;
 let SOCKS5全局代理 = false;
 
-let 反代IP = "wok.woxxxxxx.nyc.mn";
+let 反代IP = "www.google.com";
 
 let NAT64前缀 = "2001:67c:2960:6464::";
 let DOH地址 = "8.8.8.8";
