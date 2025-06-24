@@ -14,7 +14,7 @@ let SOCKS5全局代理 = false;
 let 反代IP = "ts.hpc.tw";
 
 let NAT64前缀 = "2001:67c:2960:6464::";
-let DOH地址 = "8.8.8.8";
+let DOH地址 = "1.1.1.1";
 
 // 网页入口
 export default {
